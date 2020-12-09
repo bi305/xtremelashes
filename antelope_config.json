@@ -1,0 +1,188 @@
+{
+  "antelope_standalone": true,
+  "antelope_brand_name": "Eyelashes",
+  "antelope_custom_theme": false,
+  "antelope_theme_color_primary": "#FF5722",
+  "antelope_theme_color_primary_text": "#256069",
+  "antelope_theme_color_secondary": "#607D8B",
+  "antelope_theme_color_secondary_text": "#ECEFF1",
+  "antelope_sidebar_menus": [
+    {
+      "title": "Overview",
+      "icon": "mdi mdi-view-dashboard",
+      "url": "overview",
+      "sub_menus": null
+    },
+     {
+      "title": "Home Page",
+      "icon": "mdi mdi-home",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Slider",
+          "icon": "mdi mdi-play-box-outline",
+          "url": "dashboard/table/home_slider"
+        },
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/home_content"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "icon": "mdi mdi-information",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/aboutus_content"
+        }
+      ]
+    },
+    {
+      "title": "Eyelash Extensions",
+      "icon": "mdi mdi-eye",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/extensions_content"
+        }
+      ]
+    },
+       {
+      "title": "Training",
+      "icon": "mdi mdi-hand-pointing-right",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/training_content"
+        }
+      ]
+    },
+    {
+      "title": "What To Expect",
+      "icon": "mdi mdi-hand-pointing-right",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/what_to_expect"
+        }
+      ]
+    },
+    {
+      "title": "Gallery",
+      "icon": "mdi mdi-image",
+      "url": "dashboard/table/gallery",
+      "sub_menus": null
+    },
+    {
+      "title": "Locations",
+      "icon": "mdi mdi-map-marker",
+      "url": "dashboard/table/locations",
+      "sub_menus": null
+    },
+    {
+      "title": "Products",
+      "icon": "fa fa-product-hunt",
+      "url": "dashboard/table/products",
+      "sub_menus": null
+    },
+    {
+      "title": "Shop",
+      "icon": "fa fa-shopping-cart",
+      "url": "dashboard/table/shop_content",
+      "sub_menus": null
+    },
+    {
+      "title": "Contact Us",
+      "icon": "mdi mdi-contact-mail",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Content",
+          "icon": "mdi mdi-content-copy",
+          "url": "dashboard/table/contact_us"
+        }
+      ]
+    },
+    {
+      "title": "Settings",
+      "icon": "mdi mdi-settings",
+      "url": "dashboard/table/setting",
+      "sub_menus": null
+    },
+    {
+      "title": "Menus",
+      "icon": "mdi mdi-settings",
+      "url": "dashboard/table/menus",
+      "sub_menus": null
+    },
+    {
+      "title": "Appointments",
+      "icon": "mdi mdi-calendar-check",
+      "url": "dashboard/table/appointments",
+      "sub_menus": null
+    },
+    {
+      "title": "Inquiries",
+      "icon": "mdi mdi-calendar-question",
+      "url": "dashboard/table/inquiries",
+      "sub_menus": null
+    },
+    {
+      "title": "SEO",
+      "icon": "mdi mdi-poll-box",
+      "url": null,
+      "sub_menus": [
+        {
+          "title": "Pages",
+          "icon": "fa fa-file",
+          "url": "dashboard/table/pages_seo"
+        },
+         {
+          "title": "Products",
+          "icon": "fa fa-product-hunt",
+          "url": "dashboard/table/products_seo"
+        },
+        {
+          "title": "Extra Routes",
+          "icon": "fa fa-file",
+          "url": "dashboard/table/extra_routes"
+        }
+      ]
+    },
+    {
+      "title": "Subscribers",
+      "icon": "mdi mdi-email",
+      "url": "dashboard/table/subscribers",
+      "sub_menus": null
+    },
+    {
+      "title": "Emails",
+      "icon": "fa fa-envelope-o",
+      "url": "dashboard/table/emails",
+      "sub_menus": null
+    },
+    {
+      "title": "Terms & Conditions",
+      "icon": "mdi mdi-file-document-box",
+      "url": "dashboard/table/terms",
+      "sub_menus": null
+    },
+    {
+      "title": "Dashboard Users",
+      "icon": "mdi mdi-account-multiple",
+      "url": "dashboard/table/user_management",
+      "sub_menus": null
+    }
+  ]
+}

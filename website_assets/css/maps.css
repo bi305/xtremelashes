@@ -1,0 +1,51 @@
+/*-------home page map---------*/
+  #map1 {
+        height: 100%;  
+        width: 100%;  
+       }
+       @media screen and (max-width: 767px) {
+       #map1 {
+        height: 400px;        
+  }
+}
+  @media screen and (max-width: 625px) {
+       #map1 {
+        height: 300px;        
+  }
+}
+ @media screen and (max-width: 335px) {
+       #map1 {
+        height: 200px;        
+  }
+}
+ @media screen and (max-width: 200px) {
+       #map1 {
+        height: 100px;        
+  }
+}
+
+/*-------contact page map---------*/
+  #map2 {
+        height: 100%;  
+        width: 100%;  
+       }
+       @media screen and (max-width: 767px) {
+       #map2 {
+        height: 600px;        
+  }
+}
+  @media screen and (max-width: 625px) {
+       #map2 {
+        height: 500px;        
+  }
+}
+ @media screen and (max-width: 335px) {
+       #map2 {
+        height: 400px;        
+  }
+}
+ @media screen and (max-width: 200px) {
+       #map2 {
+        height: 200px;        
+  }
+}

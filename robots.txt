@@ -1,0 +1,7 @@
+#robots.txt for https://www.xtremelashes.com.hk/
+
+User-Agent: *
+Disallow: 
+
+
+sitemap: https://www.xtremelashes.com.hk/sitemap.xml
