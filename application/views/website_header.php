@@ -228,7 +228,7 @@ option:hover {color:green;}
             foreach ($menus as $menu)
               { ?>
 
-                <li class="nav-item <?php if ($this->uri->segment(1)=='aboutus'){echo 'active';} ?>">
+                <li style="font-size:14px" class="nav-item <?php if ($this->uri->segment(1)=='aboutus'){echo 'active';} ?>">
                   <a class="nav-link " href="<?php echo base_url() ?><?php if($this->session->userdata('site_lang')=='cn'){ echo 'cn/';} ?><?php echo get_page_slug($menu->page_id) ?>"><?php 
 
                   if($this->session->userdata('site_lang')=='cn'){
@@ -254,3 +254,5 @@ option:hover {color:green;}
         </div>
       </div>
     </nav>
+
+

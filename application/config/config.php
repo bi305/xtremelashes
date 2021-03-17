@@ -1,4 +1,4 @@
-<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
@@ -17,7 +17,8 @@
 //$config['base_url'] = 'http' . ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') ? 's' : '')
 //                       .'://'.$_SERVER['HTTP_HOST'].str_replace('//','/',dirname($_SERVER['SCRIPT_NAME']).'/');
 
-$config['base_url'] = 'http://localhost/xtremelashes';
+$config['base_url'] = 'http://www.xtremelashes.com';
+// $config['base_url'] = 'http://localhost/xtremelashes ';
 
 /*
 |--------------------------------------------------------------------------
@@ -47,7 +48,7 @@ $config['index_page'] = '';
 | 'ORIG_PATH_INFO'	Uses the ORIG_PATH_INFO
 |
 */
-$config['uri_protocol']	= 'AUTO';
+$config['uri_protocol']    = 'AUTO';
 
 /*
 |--------------------------------------------------------------------------
@@ -72,7 +73,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'english';
+$config['language']    = 'english';
 
 /*
 |--------------------------------------------------------------------------
@@ -157,11 +158,11 @@ $config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
 | use segment based URLs.
 |
 */
-$config['allow_get_array']		= TRUE;
+$config['allow_get_array']        = TRUE;
 $config['enable_query_strings'] = FALSE;
-$config['controller_trigger']	= 'c';
-$config['function_trigger']		= 'm';
-$config['directory_trigger']	= 'd'; // experimental not currently in use
+$config['controller_trigger']    = 'c';
+$config['function_trigger']        = 'm';
+$config['directory_trigger']    = 'd'; // experimental not currently in use
 
 /*
 |--------------------------------------------------------------------------
@@ -265,15 +266,15 @@ $config['encryption_key'] = 'yt123';
 // $config['sess_time_to_update'] = 300;
 // $config['sess_regenerate_destroy'] = FALSE;
 
-$config['sess_cookie_name']		= 'ci_session_xl';
-$config['sess_expiration']		= 14400;
-$config['sess_expire_on_close']	= FALSE;
-$config['sess_encrypt_cookie']	= FALSE;
-$config['sess_use_database']	= TRUE;
-$config['sess_table_name']		= 'ci_sessions';
-$config['sess_match_ip']		= FALSE;
-$config['sess_match_useragent']	= TRUE;
-$config['sess_time_to_update']	= 300;
+$config['sess_cookie_name']        = 'ci_session_xl';
+$config['sess_expiration']        = 14400;
+$config['sess_expire_on_close']    = FALSE;
+$config['sess_encrypt_cookie']    = FALSE;
+$config['sess_use_database']    = TRUE;
+$config['sess_table_name']        = 'ci_sessions';
+$config['sess_match_ip']        = FALSE;
+$config['sess_match_useragent']    = TRUE;
+$config['sess_time_to_update']    = 300;
 
 
 
@@ -288,11 +289,11 @@ $config['sess_time_to_update']	= 300;
 | 'cookie_secure' =  Cookies will only be set if a secure HTTPS connection exists.
 |
 */
-$config['cookie_prefix']	= "";
-$config['cookie_domain']	= "localhost";
+$config['cookie_prefix']    = "";
+$config['cookie_domain']    = "localhost";
 // $config['cookie_domain']	= ".xtremelashes.com.hk";
-$config['cookie_path']		= "/";
-$config['cookie_secure']	= FALSE;
+$config['cookie_path']        = "/";
+$config['cookie_secure']    = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -390,3 +391,10 @@ $config['antelope_config'] = $antelope_config;
 
 /* End of file config.php */
 /* Location: ./application/config/config.php */
+
+
+
+
+
+
+

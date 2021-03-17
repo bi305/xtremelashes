@@ -200,7 +200,10 @@
   <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
   <div class="elfsight-app-76ab7f2b-60d3-433d-aca2-136d079f51e5"></div> -->
 
- <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/e21a00623cb6549ca13c35f417fde686.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+ <!-- LightWidget WIDGET -->
+ <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+ <iframe src="https://lightwidget.com/widgets/e21a00623cb6549ca13c35f417fde686.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;">
+ </iframe>
 
 
 </div>

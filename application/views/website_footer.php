@@ -8,7 +8,7 @@
       <a target="_blank" href="<?php echo $youtube; ?>"> <img src="<?php echo base_url() ?>website_assets/images/home/y.png"  class="img-responsive img-icon" ></a>
 
     </center>
-    <center style="margin-top:50px"><button id="scroll-top" class="btn btn-dark">BACK TO TOP</button></center>
+    <center style="margin-top:50px"><button id="scroll-top" class="btn btn-dark"><?php echo lang('back_to_top') ?></button></center>
   </div>
 
 </section>

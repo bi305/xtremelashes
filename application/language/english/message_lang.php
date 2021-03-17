@@ -100,3 +100,5 @@ $lang['before']='BEFORE';
 $lang['after']='AFTER';
 $lang['thank']='Thank You for contacting us. Your request has been submitted.';
 $lang['validation'] = 'Please fill out this field';
+
+$lang['back_to_top'] = 'BACK TO TOP';

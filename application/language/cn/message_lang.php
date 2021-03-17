@@ -99,3 +99,5 @@ $lang['safe']='安全<br>舒適<br>衛生';
 $lang['thank']='感謝您與我們聯繫。您的申請已經提交。';
 $lang['inquiry_submitted']='您的詢問已提交。';
 $lang['validation'] = '请填写此字段';
+
+$lang['back_to_top'] = 'BACK TO TOP';
