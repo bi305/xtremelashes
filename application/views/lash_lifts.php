@@ -189,7 +189,23 @@
                         <div class="col-md-12" style="font-size: 50px;font-family: roxborough cf bold; ">
                             LASH LIFT I01
                         </div>
-                        <div class="col-md-12" style="margin-top: 350px;font-family: roxborough cf bold;">
+                        <div class="col-md-12 h1" style="color: black;">
+                            hi
+                        </div>
+                        <div class="col-md-12 h1" style="color: black;">
+                            hi
+                        </div>
+                        <div class="col-md-12 h1  d-md-none  d-lg-block" style="color: black;">
+                            hi
+                        </div>
+                        <div class="col-md-12 h1 d-md-none  d-lg-block" style="color: black;">
+                            hi
+                        </div>
+                        <div class="col-md-12 h1" style="color: black;">
+                            hi
+                        </div>
+
+                        <div class="col-md-12 d-flex align-items-end" style="font-family: roxborough cf bold;">
                             We have over 16 years of high quality eyelash experience in this area of business and we strive to achieve the following: develop, empower, enable and maintain.
 
                         </div>
@@ -200,26 +216,46 @@
 
             </div>
             <div class="col-md-3 mt-5  mb-5">
-                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 6_1.png" alt="">
+                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 7_1.png" alt="">
                 <div class="h3 mb-4 mt-4" style=" font-family: roxborough cf bold;">WHAT IS LASH LIFT</div>
                 <p class="border-bottom " style=" font-family: roxborough cf bold;">
                     This lash lifting system is designed to lift and produce a luxurious, sweeping curl of the natural eyelashes which lasts from 6-8 weeks. It creates an illusion of longer looking lashes and really opens up the eyes. It's suitable for short or long lashes and is a fabulous alternative to eyelash extensions. A lash lift curls your lash from base to tip so that you can see the full length. A lash lift will take all of the imperfections of your lashes (criss-crossed and twisted lashes anyone?!) and straighten them out
                 </p>
             </div>
             <div class="col-md-3 mt-5  mb-5">
-                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 6_2.jpg">
+                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 7_2.png">
                 <div class="h3 mb-4 mt-4 " style=" font-family: roxborough cf bold;">IS IT SAFE? </div>
                 <p class="border-bottom " style=" font-family: roxborough cf bold;">
                     Yes. Lashes are lifted onto specially shaped lifting silicone rods before products are applied, so no products will be touching your skin. At Xtreme Lashes, your treatment performed by a certified lash specialist or esthetician. Lash lift is not risky if done properly. So, the artist might have left the perming solution for too long or used some low-quality products or it could have been something else. This is why it is important to find an reliable studio.
                 </p>
             </div>
             <div class=" col-md-3 mt-5  mb-5">
-                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 6_3.png ">
+                <img class="img-fluid" src="<?php echo  base_url(); ?>website_assets/images/lash-lifts-bg/page 7_3.png ">
                 <div class="h3 mb-4 mt-4" style=" font-family: roxborough cf bold;">LASH LIFT Vs EXTENSION </div>
                 <p class="border-bottom" style=" font-family: roxborough cf bold;">
                     Fundamentally, this means that extensions tend to look more dramatic and lash lifts tend to look more natural. However, it’s not necessarily that clear cut, because there can be quite a degree of customisation with each treatment. Nonetheless, as a starting point, this is a good place as it comes down to individual preference.
                 </p>
             </div>
+        </div>
+    </div>
+</section>
+<!-- 8th -->
+<hr>
+<section style="background-image:url('website_assets/images/lash-lifts-bg/page 8.png ') ;   background-position: center;height :100vh ;background-size:cover ;;">
+    <div class="container text-white  text-center ">
+        <div class="row">
+            <div class="col-md-12 " style="margin-top:150px;font-family: sanchez ;font-size:45px;">
+                BECOME A LASH LIFT <br> MASTER
+            </div>
+            <div class="col-md-12 " style="margin-top:20px;font-family: luthier ;font-size:20px;">
+                PROFESSIONALS CHOOSE <br>
+
+                XTREME LASHES
+            </div>
+            <div class="col-md-12 " style="margin-top:50px;font-family: luthier ;font-size:20px;">
+                REGISTER NOW
+            </div>
+
         </div>
     </div>
 </section>
